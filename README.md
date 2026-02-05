@@ -12,5 +12,5 @@ durante a fase de manutenção.
 
 Se você é um aluno ou professor da FURB e quiser sugerir alguma alteração no código, seja porque essa alteração já foi 
 implementada pela equipe de manutenção da própria FURB ou porque você tem alguma sugestão que acredita ser útil, sinta-se à 
-vontade para criar um ticket aqui no [GitLab](https://gitlab.com/joao-souza/orbe) ou, se quiser fazê-la você mesmo, abrir uma 
+vontade para criar um ticket no [GitLab](https://gitlab.com/joao-souza/orbe) ou, se quiser fazê-la você mesmo, abrir uma 
 solicitação de mesclagem.
